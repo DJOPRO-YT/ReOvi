@@ -1,0 +1,2 @@
++---> Ovi Store:
+| s60-store.ovi.com
